@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Aditya Kumar
 
-<!--
-**Adityakumar118/Adityakumar118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst passionate about turning data into insights that drive results.
 
-Here are some ideas to get you started:
+### 🔧 Tools I Use:
+- SQL | Excel | Power BI | Python (pandas, matplotlib, seaborn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My Projects:
+- [Sales Dashboard in Power BI](https://github.com/Adityakumar118/sales-dashboard)
+- [UPI Transaction Analysis](https://github.com/Adityakumar118/upi-data-analysis)
+- [Student Retention SQL Project](https://github.com/Adityakumar118/student-retention-sql)
+
+📫 Contact: [LinkedIn](https://linkedin.com/in/your-link) | [Email](mailto:adityachoudhary7944@gmail.com)
