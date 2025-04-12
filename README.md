@@ -3,7 +3,7 @@
 I'm a data analyst passionate about turning data into insights that drive results.
 
 ### 🔧 Tools I Use:
-- SQL | Excel | Power BI | Python (pandas, matplotlib, seaborn)
+- SQL | Excel | Power BI | Python (Numpy,Pandas, Matplotlib, Seaborn)
 
 ### 📊 My Projects:
 - [Sales Dashboard in Power BI](https://github.com/Adityakumar118/sales-dashboard)
