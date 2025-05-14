@@ -7,6 +7,7 @@ I'm a data analyst passionate about turning data into insights that drive result
 
 ### 📊 My Projects:
 - [Sales Dashboard in Power BI](https://github.com/Adityakumar118/sales-dashboard)
+- [Insurance Data Analysis]()
 - [UPI Transaction Analysis](https://github.com/Adityakumar118/upi-data-analysis)
 - [Student Retention SQL Project](https://github.com/Adityakumar118/student-retention-sql)
 
