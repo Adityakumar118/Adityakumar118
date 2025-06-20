@@ -11,4 +11,4 @@ I'm a data analyst passionate about turning data into insights that drive result
 - [UPI Transaction Analysis](https://github.com/Adityakumar118/upi-data-analysis)
 - [Student Retention SQL Project](https://github.com/Adityakumar118/student-retention-sql)
 
-📫 Contact: [LinkedIn](https://linkedin.com/in/your-link) | [Email](mailto:adityachoudhary7944@gmail.com)
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/aditya-kumar-10577336a/) | [Email](mailto:adityachoudhary7944@gmail.com)
